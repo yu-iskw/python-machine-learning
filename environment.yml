@@ -1,0 +1,15 @@
+name: python-machine-learning
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6
+  - openblas
+  - scikit-learn=0.19.2
+  - jupyter
+  - jupyter_contrib_nbextensions 
+  - seaborn
+  - matplotlib
+  - pandas
+  - scikit-optimize
+  - mlxtend
