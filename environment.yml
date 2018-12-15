@@ -13,3 +13,4 @@ dependencies:
   - pandas
   - scikit-optimize
   - mlxtend
+  - scikit-plot
